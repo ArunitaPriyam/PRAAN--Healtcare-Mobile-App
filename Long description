@@ -4,4 +4,29 @@ PRAAN, a one-screen healthcare mobile app designed for quick access to available
 Opportunity story:
 In this pandemic situation where there is a havoc disease knocking at doors all the time, it is time consuming for patients to gather current status of beds or ventilation support of all hospitals within the reach and also reaching the correct place without information is just a guess leading to an increase in fatality rate.
 
-k
+Inspiration:
+Without a centralized system to track the availability of hospital beds in real-time, patients are compelled to move from one hospital to another in search of vacant beds leading to loss of their life before they could be admitted. Many patients had complained that they didn't know where beds were available.
+The existing solutions which are available in the market only show the list of hospitals. They do not show the availability of ICU beds, ventilators etc nor do they help in getting reservations before reaching the hospitals. 
+
+What’s the idea ?
+The idea behind the PRAAN app is to address the panic situation and provide a one-click centralized system to help COVID-19 patients and remove ambiguity during this crisis. It will provide them essential required information of nearby  hospitals and other healthcare facilities which have beds and ventilators available avoiding them to shuttle between hospitals when time is so precious preventing mortality rate.
+
+Firstly, to attract both rural and urban crowds, we choose the app name as “PRAAN” as it is short, easy and relatable to healthcare service. This app is targeted to be fully functional within a month's time.
+
+PRAAN aims to connect the patients to the nearest COVID ICU bed service providers. This service is provided through a mobile app, is fully integrated and will have provisions to call & get directions to the hospital or COVID Care Centers(CCCs), get estimated distance to reach, pricing/bed etc.
+
+PRAAN first-aid services are not only limited to emergencies, but can be used by a patient to schedule corona check-ups & appointments or simply to get an idea of nearby healthcare facilities in both map and list form. The mobile app connects users to emergency facilities like COVID Rescue Team or any relevant government helpline via SOS button by providing timely help when there is shortage or no beds available.
+
+So, in case of COVID emergency, don’t panic and go to PRAAN app for the nearest COVID hospital, be a hero & save a life!
+
+
+
+Scope of the PRAAN:
+In future, the app can be expanded for a variety of purposes based on its success and adoption in the market.
+In some months once the vaccine is out , COVID will be just like another disease like dengue and malaria. This app will not just be limited to cater this pandemic situation but also to handle any other disease, emergencies or high priority area, which will need the patients to reach the appropriate nearby hospital on time.
+
+PRAAN can be extended and provide a front-end to the hospitals. There hospital management or COVID care unit will just need to push basic required data on a real time basis or connect API to our app to avoid manual intervention.
+The app can provide hospitals with most required reviews of recovered patients which will help them in gaining reputation in this digital market.
+There can  be chances to integrate chatbot using IBM Watson Assistant for immediate first aid.
+
+There can be collaborations with other startups like HelpNow or well established healthcare organisations to enhance the view of PRAAN. Such as, integration of 24*7 ambulance service providers, 1916 COVID helpline, etc can be possible.
