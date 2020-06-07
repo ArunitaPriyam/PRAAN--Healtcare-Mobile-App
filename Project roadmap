@@ -1,1 +1,43 @@
 
+PROJECT ROADMAP -
+
+PRAAN aims to provide quick and one-click solutions to COVID and Non-COVID patients during pandemic situations, crisis and emergencies. 
+Following is the implementation of the “PRAAN” app in phases:
+
+Phase 1
+
+-	Mobile-OTP validation
+-	Locate nearby available hospitals using  GPS on HERE maps.
+-	Bed Info : Count of total, vacant and occupied.
+-	Ventilator Info : Count of total, vacant and occupied.
+-	Display distance of hospitals. 
+-	Call functionality for users to hospital.
+-	HERE routing services 
+-	IBM Cloudant to store data from hospitals and CCCs.
+-	Activated SOS feature in case of 100% unavailability of beds.
+- Use HERE location services
+	
+  
+  Phase 2
+
+- Call Ambulance , Mobile mortuary vans 
+- Inform Police  / Municipal Local Cooperator in case of Beds getting occupied            ( Threshold :  80%, 90% and 100% ) 
+- Register a patient before they reach the hospital for ease and quick admission
+- Connect with Medical Admin software API avoiding manual intervention 
+- Hospital review system
+-Basic Interface at hospital where they can  input the number of beds which are available, occupied and are
+ Vacant
+ 
+	Phase 3 
+
+- Can be used for other pandemic situations in future.
+- Can be used for non-COVID patients. 
+- In Case of Accidents
+- Live monitoring of ambulances and mobile mortuary vans.
+- Use IBM Watson Assistant to make it more interactive and helpful 
+- Use IBM Cloudant for making the app more flexible, easy updation of data in realtime.
+- 24*7 Helpline service to reduce panic situation 
+- Increase the scope usage to NonCovid Patients during emergencies.
+- Partnership with existing organisations 
+
+
